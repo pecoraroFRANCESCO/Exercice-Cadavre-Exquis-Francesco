@@ -1,1 +1,3 @@
-# Toki Pona
+# Toki Ponai
+
+Langue/minimale/philosophie
