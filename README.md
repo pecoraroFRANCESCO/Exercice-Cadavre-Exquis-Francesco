@@ -1,4 +1,4 @@
 # Toki Pona
 
-Langue/minimale/philosophie//
+Langue/minimale/philosophie//  
 Langue/maximale/métaphysique//
